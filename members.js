@@ -26,12 +26,12 @@ const membersData = [
     "birthplace": "東ジャワ州マラン",
     "generation": "10",
     "team": "Tim Dream",
-    "remarks": "2023年05月07日昇格",
-    "status": "Regular",
-    "graduation_date": null,
+    "remarks": "卒業；スキャンダルのため、12週間の活動停止処分（2024年5月2日～7月25日）を受けた",
+    "status": "Graduate",
+    "graduation_date": "2023-05-07〜2026-03-29",
     "relationship": "",
     "socials": {
-      "x": "https://x.com/PS_AmandaJKT48",
+      "x": "https://x.com/_amandapuspitaa",
       "instagram": "https://www.instagram.com/jkt48.amanda.s/",
       "tiktok": "https://www.tiktok.com/@jkt48.amanda.s/",
       "youtube": ""
@@ -4372,6 +4372,222 @@ const membersData = [
     "socials": {
       "x": "",
       "instagram": "https://www.instagram.com/nauraasfn/",
+      "tiktok": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": 241,
+    "name": "Afera Thalia",
+    "nickname": "フェラfera",
+    "birthdate": "2012-10-20",
+    "birthplace": "ジャカルタ",
+    "generation": "14",
+    "remarks": "",
+    "status": "Trainee",
+    "graduation_date": "",
+    "relationship": "",
+    "socials": {
+      "x": "",
+      "instagram": "",
+      "tiktok": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": 242,
+    "name": "Carissa Dini",
+    "nickname": "カリッサCarissa",
+    "birthdate": "2012-02-02",
+    "birthplace": "バンドン",
+    "generation": "14",
+    "remarks": "",
+    "status": "Trainee",
+    "graduation_date": "",
+    "relationship": "",
+    "socials": {
+      "x": "",
+      "instagram": "",
+      "tiktok": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": 243,
+    "name": "Christabella Bonita",
+    "nickname": "ベラBella",
+    "birthdate": "2011-03-02",
+    "birthplace": "-",
+    "generation": "14",
+    "remarks": "",
+    "status": "Trainee",
+    "graduation_date": "",
+    "relationship": "",
+    "socials": {
+      "x": "",
+      "instagram": "",
+      "tiktok": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": 244,
+    "name": "Fahira Putri",
+    "nickname": "ファヒラFahira",
+    "birthdate": "2012-08-13",
+    "birthplace": "-",
+    "generation": "14",
+    "remarks": "",
+    "status": "Trainee",
+    "graduation_date": "",
+    "relationship": "",
+    "socials": {
+      "x": "",
+      "instagram": "",
+      "tiktok": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": 245,
+    "name": "Fatimah Azzahra",
+    "nickname": "ララRara",
+    "birthdate": "2010-08-30",
+    "birthplace": "-",
+    "generation": "14",
+    "remarks": "",
+    "status": "Trainee",
+    "graduation_date": "",
+    "relationship": "",
+    "socials": {
+      "x": "",
+      "instagram": "",
+      "tiktok": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": 246,
+    "name": "Heidi Suyangga",
+    "nickname": "ヘイディHeidi",
+    "birthdate": "2008-08-27",
+    "birthplace": "-",
+    "generation": "14",
+    "remarks": "",
+    "status": "Trainee",
+    "graduation_date": "",
+    "relationship": "",
+    "socials": {
+      "x": "",
+      "instagram": "",
+      "tiktok": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": 247,
+    "name": "Maxine Faye",
+    "nickname": "マキシンMaxine",
+    "birthdate": "2011-12-02",
+    "birthplace": "-",
+    "generation": "14",
+    "remarks": "",
+    "status": "Trainee",
+    "graduation_date": "",
+    "relationship": "",
+    "socials": {
+      "x": "",
+      "instagram": "",
+      "tiktok": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": 248,
+    "name": "Putry Jazyta",
+    "nickname": "ジャジーJazzy",
+    "birthdate": "2011-03-12",
+    "birthplace": "-",
+    "generation": "14",
+    "remarks": "",
+    "status": "Trainee",
+    "graduation_date": "",
+    "relationship": "",
+    "socials": {
+      "x": "",
+      "instagram": "",
+      "tiktok": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": 249,
+    "name": "Ralyne Van Irwan",
+    "nickname": "レリンRalyne",
+    "birthdate": "2011-10-15",
+    "birthplace": "-",
+    "generation": "14",
+    "remarks": "",
+    "status": "Trainee",
+    "graduation_date": "",
+    "relationship": "",
+    "socials": {
+      "x": "",
+      "instagram": "",
+      "tiktok": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": 250,
+    "name": "Sona Kalyana",
+    "nickname": "ソナSona",
+    "birthdate": "2011-12-01",
+    "birthplace": "-",
+    "generation": "14",
+    "remarks": "",
+    "status": "Trainee",
+    "graduation_date": "",
+    "relationship": "",
+    "socials": {
+      "x": "",
+      "instagram": "",
+      "tiktok": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": 251,
+    "name": "Maegan Jovanka",
+    "nickname": "メイガンMaegan",
+    "birthdate": "2011-12-21",
+    "birthplace": "-",
+    "generation": "14",
+    "remarks": "2026-03-09辞退",
+    "status": "Graduate",
+    "graduation_date": "2026-03-09",
+    "relationship": "",
+    "socials": {
+      "x": "",
+      "instagram": "",
+      "tiktok": "",
+      "youtube": ""
+    }
+  },
+  {
+    "id": 252,
+    "name": "",
+    "nickname": "",
+    "birthdate": "",
+    "birthplace": "-",
+    "generation": "15",
+    "remarks": "",
+    "status": "Trainee",
+    "graduation_date": "",
+    "relationship": "",
+    "socials": {
+      "x": "",
+      "instagram": "",
       "tiktok": "",
       "youtube": ""
     }
