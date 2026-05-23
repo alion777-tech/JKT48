@@ -4478,9 +4478,9 @@ const membersData = [
     "graduation_date": "",
     "relationship": "",
     "socials": {
-      "x": "",
-      "instagram": "",
-      "tiktok": "",
+      "x": "https://x.com/Heidi_JKT48",
+      "instagram": "https://www.instagram.com/heidi.jkt48/",
+      "tiktok": "https://www.tiktok.com/@jkt48.heidi__",
       "youtube": ""
     }
   },

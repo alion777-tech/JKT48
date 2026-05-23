@@ -37,27 +37,16 @@ const linksData = [
                 title: "JKT48 Official TikTok",
                 url: "https://www.tiktok.com/@jkt48.official",
                 note: "「JKT48」の公式アカウント。"
-            }
-        ]
-    },
-    {
-        category: "Official Teams (X/Twitter)",
-        description: "各チームの公式Xアカウントなど。",
-        items: [
-            {
-                title: "Team Love Official X",
-                url: "", // こちらにURLを入力してください
-                note: "Team Loveの最新情報。"
             },
             {
-                title: "Team Dream Official X",
-                url: "", // こちらにURLを入力してください
-                note: "Team Dreamの最新情報。"
+                title: "JKT48.U16 Official Instagram",
+                url: "https://www.instagram.com/jkt48.u16/",
+                note: "16歳未満のJKT48メンバーのソーシャルメディアアカウント"
             },
             {
-                title: "Team Passion Official X",
-                url: "", // こちらにURLを入力してください
-                note: "Team Passionの最新情報。"
+                title: "JKT48.U16 Official TikTok",
+                url: "https://www.tiktok.com/@jkt48.u16",
+                note: "16歳未満のJKT48メンバーのソーシャルメディアアカウント"
             }
         ]
     },
@@ -66,9 +55,9 @@ const linksData = [
         description: "グッズやチケット、ショップ関連の公式アカウント。",
         items: [
             {
-                title: "JKT48 Merchandise X",
-                url: "", // こちらにURLを入力してください
-                note: "公式グッズ情報。"
+                title: "moshi2 JKT48 X",
+                url: "https://x.com/moshi2jkt48", 
+                note: "JKT48とのビデオコールサービス「moshi2」の公式アカウント。"
             },
             {
                 title: "JKT48 Private Message",
@@ -77,7 +66,12 @@ const linksData = [
             },
             {
                 title: "JKT48 Official Store (Tokopedia)",
-                url: "https://www.tokopedia.com/officialjkt48",
+                url: "https://www.tokopedia.com/jkt48-official-store",
+                note: "公式オンラインショップ。"
+            },
+            {
+                title: "JKT48 Official Store (shopee)",
+                url: "https://shopee.co.id/officialjkt48",
                 note: "公式オンラインショップ。"
             }
         ]
@@ -90,12 +84,7 @@ const linksData = [
                 title: "IDN App",
                 url: "https://www.idn.app/",
                 note: "JKT48の個人live配信や劇場公演やコンサートのlive配信などが見れるアプリ。"
-            },
-            {
-                title: "VIDEO CALL WITH JKT48",
-                url: "https://www.youtube.com/@JKT48V_official",
-                note: "JKT48メンバーとのビデオ通話サービス"
-            }
+            },           
         ]
     },
     {
@@ -165,7 +154,7 @@ const linksData = [
                 note: "MDTV OFFICIALのJKT48の動画。（旧NET.TV）"
             },
             {
-                title: "VIVA JKT48 2014",
+                title: "Official RCTI",
                 url: "https://www.youtube.com/@OfficialRCTI/search?query=jkt48",
                 note: "RCTIのJKT48の動画。"
             }
