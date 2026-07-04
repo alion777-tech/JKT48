@@ -158,15 +158,15 @@ const membersData = [
     "birthdate": "2009-12-23",
     "birthplace": "オーストラリアニューサウスウェールズ州シドニー",
     "generation": "11",
-    "remarks": "2024年11月01日昇格",
-    "status": "Regular",
+    "remarks": "卒業；Tim Dream",
+    "status": "Graduate",
     "team": "Tim Dream",
-    "graduation_date": null,
+    "graduation_date": "2024-11-01～2026-05-30",
     "relationship": "",
     "socials": {
-      "x": "https://x.com/DC_ChelseaJKT48",
-      "instagram": "https://www.instagram.com/jkt48.chelsea/",
-      "tiktok": "https://www.tiktok.com/@_chelseajkt48/",
+      "x": "https://x.com/chelseanorman_",
+      "instagram": "https://www.instagram.com/jkt48.chelsea.d/",
+      "tiktok": "https://www.tiktok.com/@chelseaanorman",
       "youtube": ""
     }
   },
