@@ -73,6 +73,11 @@ const linksData = [
                 title: "JKT48 Official Store (shopee)",
                 url: "https://shopee.co.id/officialjkt48",
                 note: "公式オンラインショップ。"
+            },
+            {
+                title: "JKT48 Official Merchandise",
+                url: "https://www.instagram.com/jkt48mrch/",
+                note: "公式 merchandise"
             }
         ]
     },
