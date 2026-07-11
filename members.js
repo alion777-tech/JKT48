@@ -1490,7 +1490,7 @@ const membersData = [
       "x": "https://x.com/Haruka_NKGW10",
       "instagram": "https://www.instagram.com/haruuuu_chan",
       "tiktok": "https://www.tiktok.com/@haruchan210",
-      "youtube": ""
+      "youtube": "https://www.youtube.com/@Harukachan_Channel"
     }
   },
   {
