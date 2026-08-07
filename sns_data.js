@@ -1,25 +1,25 @@
 // SNS Stats Data
-// Updated at: 2026-08-05T16:30:34.832Z
+// Updated at: 2026-08-07T15:53:17.932Z
 
-const lastUpdated = "2026/8/6 1:30:34";
+const lastUpdated = "2026/8/8 0:53:17";
 const snsStats = {
   "1": {
     "id": 1,
     "name": "Alya Amanda",
     "x": 0,
     "instagram": 411431,
-    "tiktok": 989712,
-    "total": 1401143,
+    "tiktok": 989443,
+    "total": 1400874,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -88,
+    "tk_diff": -269,
     "socials": {
       "x": "https://x.com/AA_AlyaJKT48",
       "instagram": "https://www.instagram.com/jkt48.alya_/",
       "tiktok": "https://www.tiktok.com/@alyajkt48/",
       "youtube": ""
     },
-    "total_diff": -88
+    "total_diff": -269
   },
   "2": {
     "id": 2,
@@ -44,108 +44,108 @@ const snsStats = {
     "name": "Anindya Ramadhani",
     "x": 0,
     "instagram": 446227,
-    "tiktok": 1110897,
-    "total": 1557124,
+    "tiktok": 1110767,
+    "total": 1556994,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -101,
+    "tk_diff": -130,
     "socials": {
       "x": "https://x.com/AR_AnindyaJKT48",
       "instagram": "https://www.instagram.com/jkt48.anindya_",
       "tiktok": "https://www.tiktok.com/@anindyajkt48/",
       "youtube": ""
     },
-    "total_diff": -101
+    "total_diff": -130
   },
   "4": {
     "id": 4,
     "name": "Angelina Christy",
     "x": 0,
     "instagram": 446686,
-    "tiktok": 4768438,
-    "total": 5215124,
+    "tiktok": 4766806,
+    "total": 5213492,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -755,
+    "tk_diff": -1632,
     "socials": {
       "x": "https://x.com/A_ChristyJKT48",
       "instagram": "https://www.instagram.com/jkt48.christy/",
       "tiktok": "https://www.tiktok.com/@christyjkt48/",
       "youtube": ""
     },
-    "total_diff": -755
+    "total_diff": -1632
   },
   "5": {
     "id": 5,
     "name": "Aurellia",
     "x": 0,
     "instagram": 203934,
-    "tiktok": 1079149,
-    "total": 1283083,
+    "tiktok": 1078949,
+    "total": 1282883,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -51,
+    "tk_diff": -200,
     "socials": {
       "x": "https://x.com/AU_LiaJKT48",
       "instagram": "https://www.instagram.com/jkt48.aurellia_/",
       "tiktok": "https://www.tiktok.com/@jkt48.aurellia_/",
       "youtube": ""
     },
-    "total_diff": -51
+    "total_diff": -200
   },
   "6": {
     "id": 6,
     "name": "Aurhel Alana",
     "x": 0,
     "instagram": 179345,
-    "tiktok": 842400,
-    "total": 1021745,
+    "tiktok": 842200,
+    "total": 1021545,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -13,
+    "tk_diff": -200,
     "socials": {
       "x": "https://x.com/AR_LanaJKT48",
       "instagram": "https://www.instagram.com/jkt48.lana.a/",
       "tiktok": "https://www.tiktok.com/@jkt48.lana",
       "youtube": ""
     },
-    "total_diff": -13
+    "total_diff": -200
   },
   "7": {
     "id": 7,
     "name": "Cathleen Nixie",
     "x": 0,
     "instagram": 22537,
-    "tiktok": 1244132,
-    "total": 1266669,
+    "tiktok": 1243650,
+    "total": 1266187,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -184,
+    "tk_diff": -482,
     "socials": {
       "x": "https://x.com/N_CathyJKT48",
       "instagram": "https://www.instagram.com/jkt48.cathy/",
       "tiktok": "https://www.tiktok.com/@cathyjkt48/",
       "youtube": ""
     },
-    "total_diff": -184
+    "total_diff": -482
   },
   "8": {
     "id": 8,
     "name": "Celline Thefani",
     "x": 0,
     "instagram": 220480,
-    "tiktok": 810100,
-    "total": 1030580,
+    "tiktok": 809919,
+    "total": 1030399,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -24,
+    "tk_diff": -181,
     "socials": {
       "x": "https://x.com/Elin_JKT48",
       "instagram": "https://www.instagram.com/jkt48.elin_/",
       "tiktok": "https://www.tiktok.com/@elinjkt48/",
       "youtube": ""
     },
-    "total_diff": -24
+    "total_diff": -181
   },
   "9": {
     "id": 9,
@@ -170,54 +170,54 @@ const snsStats = {
     "name": "Cornelia Vanisa",
     "x": 0,
     "instagram": 368994,
-    "tiktok": 1550460,
-    "total": 1919454,
+    "tiktok": 1549957,
+    "total": 1918951,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -220,
+    "tk_diff": -503,
     "socials": {
       "x": "https://x.com/C_OnielJKT48",
       "instagram": "https://www.instagram.com/jkt48.oniel/",
       "tiktok": "https://www.tiktok.com/@onieljkt48/",
       "youtube": ""
     },
-    "total_diff": -220
+    "total_diff": -503
   },
   "11": {
     "id": 11,
     "name": "Cynthia Yaputera",
     "x": 0,
     "instagram": 97726,
-    "tiktok": 947527,
-    "total": 1045253,
+    "tiktok": 947500,
+    "total": 1045226,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -89,
+    "tk_diff": -27,
     "socials": {
       "x": "https://x.com/Y_CynthiaJKT48",
       "instagram": "https://www.instagram.com/jkt48.cynthia/",
       "tiktok": "https://www.tiktok.com/@cynthiajkt48/",
       "youtube": ""
     },
-    "total_diff": -89
+    "total_diff": -27
   },
   "12": {
     "id": 12,
     "name": "Dena Natalia",
     "x": 0,
     "instagram": 385338,
-    "tiktok": 778435,
-    "total": 1163773,
+    "tiktok": 778300,
+    "total": 1163638,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -104,
+    "tk_diff": -135,
     "socials": {
       "x": "https://x.com/Danella_JKT48",
       "instagram": "https://www.instagram.com/jkt48.danella/",
       "tiktok": "https://www.tiktok.com/@danellajkt48/",
       "youtube": ""
     },
-    "total_diff": -104
+    "total_diff": -135
   },
   "13": {
     "id": 13,
@@ -242,90 +242,90 @@ const snsStats = {
     "name": "Febriola Sinambela",
     "x": 0,
     "instagram": 284274,
-    "tiktok": 2055610,
-    "total": 2339884,
+    "tiktok": 2055046,
+    "total": 2339320,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -288,
+    "tk_diff": -564,
     "socials": {
       "x": "https://x.com/F_OllaJKT48",
       "instagram": "https://www.instagram.com/jkt48.olla/",
       "tiktok": "https://www.tiktok.com/@ollajkt48/",
       "youtube": ""
     },
-    "total_diff": -288
+    "total_diff": -564
   },
   "15": {
     "id": 15,
     "name": "Feni Fitriyanti",
     "x": 0,
     "instagram": 124975,
-    "tiktok": 1408576,
-    "total": 1533551,
+    "tiktok": 1408118,
+    "total": 1533093,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -246,
+    "tk_diff": -458,
     "socials": {
       "x": "https://x.com/F_FeniJKT48",
       "instagram": "https://www.instagram.com/jkt48feni/",
       "tiktok": "https://www.tiktok.com/@fenijkt48/",
       "youtube": ""
     },
-    "total_diff": -246
+    "total_diff": -458
   },
   "16": {
     "id": 16,
     "name": "Fiony Alveria",
     "x": 0,
     "instagram": 67943,
-    "tiktok": 1722001,
-    "total": 1789944,
+    "tiktok": 1721487,
+    "total": 1789430,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -261,
+    "tk_diff": -514,
     "socials": {
       "x": "https://x.com/A_FionyJKT48",
       "instagram": "https://www.instagram.com/jkt48.fiony/",
       "tiktok": "https://www.tiktok.com/@fionyjkt48/",
       "youtube": ""
     },
-    "total_diff": -261
+    "total_diff": -514
   },
   "17": {
     "id": 17,
     "name": "Freya Jayawardana",
     "x": 0,
     "instagram": 348806,
-    "tiktok": 4906365,
-    "total": 5255171,
+    "tiktok": 4904935,
+    "total": 5253741,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -767,
+    "tk_diff": -1430,
     "socials": {
       "x": "https://x.com/Freya_JKT48",
       "instagram": "https://www.instagram.com/jkt48.freya/",
       "tiktok": "https://www.tiktok.com/@freyajkt48/",
       "youtube": ""
     },
-    "total_diff": -767
+    "total_diff": -1430
   },
   "18": {
     "id": 18,
     "name": "Gabriela Abigail",
     "x": 0,
     "instagram": 298821,
-    "tiktok": 1810517,
-    "total": 2109338,
+    "tiktok": 1810048,
+    "total": 2108869,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -226,
+    "tk_diff": -469,
     "socials": {
       "x": "https://x.com/AM_EllaJKT48",
       "instagram": "https://www.instagram.com/jkt48.ella.a/",
       "tiktok": "https://www.tiktok.com/@jkt48.ella.a/",
       "youtube": ""
     },
-    "total_diff": -226
+    "total_diff": -469
   },
   "19": {
     "id": 19,
@@ -350,234 +350,234 @@ const snsStats = {
     "name": "Gita Sekar Andarini",
     "x": 0,
     "instagram": 148170,
-    "tiktok": 1506683,
-    "total": 1654853,
+    "tiktok": 1506298,
+    "total": 1654468,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -251,
+    "tk_diff": -385,
     "socials": {
       "x": "https://x.com/A_GitaJKT48",
       "instagram": "https://www.instagram.com/jkt48gita/",
       "tiktok": "https://www.tiktok.com/@gitajkt48/",
       "youtube": ""
     },
-    "total_diff": -251
+    "total_diff": -385
   },
   "21": {
     "id": 21,
     "name": "Grace Octaviani",
     "x": 0,
     "instagram": 301953,
-    "tiktok": 1016964,
-    "total": 1318917,
+    "tiktok": 1016686,
+    "total": 1318639,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -125,
+    "tk_diff": -278,
     "socials": {
       "x": "https://x.com/Gracie_JKT48",
       "instagram": "https://www.instagram.com/jkt48.gracie/",
       "tiktok": "https://www.tiktok.com/@graciejkt48/",
       "youtube": ""
     },
-    "total_diff": -125
+    "total_diff": -278
   },
   "22": {
     "id": 22,
     "name": "Greesella Adhalia",
     "x": 0,
     "instagram": 277493,
-    "tiktok": 1454714,
-    "total": 1732207,
+    "tiktok": 1454284,
+    "total": 1731777,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -244,
+    "tk_diff": -430,
     "socials": {
       "x": "https://x.com/Greesel_JKT48",
       "instagram": "https://www.instagram.com/jkt48.greesel/",
       "tiktok": "https://www.tiktok.com/@greeseljkt48/",
       "youtube": ""
     },
-    "total_diff": -244
+    "total_diff": -430
   },
   "23": {
     "id": 23,
     "name": "Helisma Putri",
     "x": 0,
     "instagram": 353386,
-    "tiktok": 1318701,
-    "total": 1672087,
+    "tiktok": 1318411,
+    "total": 1671797,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -105,
+    "tk_diff": -290,
     "socials": {
       "x": "https://x.com/H_EliJKT48",
       "instagram": "https://www.instagram.com/jkt48.eli/",
       "tiktok": "https://www.tiktok.com/@elijkt48/",
       "youtube": ""
     },
-    "total_diff": -105
+    "total_diff": -290
   },
   "24": {
     "id": 24,
     "name": "Indah Cahya",
     "x": 0,
     "instagram": 169587,
-    "tiktok": 1345334,
-    "total": 1514921,
+    "tiktok": 1344943,
+    "total": 1514530,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -176,
+    "tk_diff": -391,
     "socials": {
       "x": "https://x.com/C_IndahJKT48",
       "instagram": "https://www.instagram.com/jkt48indah_/",
       "tiktok": "https://www.tiktok.com/@indahjkt48/",
       "youtube": ""
     },
-    "total_diff": -176
+    "total_diff": -391
   },
   "25": {
     "id": 25,
     "name": "Jessica Chandra",
     "x": 0,
     "instagram": 217436,
-    "tiktok": 1524576,
-    "total": 1742012,
+    "tiktok": 1524106,
+    "total": 1741542,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -211,
+    "tk_diff": -470,
     "socials": {
       "x": "https://x.com/C_JessiJKT48",
       "instagram": "https://www.instagram.com/jkt48.jessi/",
       "tiktok": "https://www.tiktok.com/@jessijkt48/",
       "youtube": ""
     },
-    "total_diff": -211
+    "total_diff": -470
   },
   "26": {
     "id": 26,
     "name": "Jesslyn Elly",
     "x": 0,
     "instagram": 272659,
-    "tiktok": 982700,
-    "total": 1255359,
+    "tiktok": 982500,
+    "total": 1255159,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -7,
+    "tk_diff": -200,
     "socials": {
       "x": "https://x.com/SE_LynJKT48",
       "instagram": "https://www.instagram.com/jkt48.lyn.s/",
       "tiktok": "https://www.tiktok.com/@jkt48.lyn.s/",
       "youtube": ""
     },
-    "total_diff": -7
+    "total_diff": -200
   },
   "27": {
     "id": 27,
     "name": "Kathrina Irene",
     "x": 0,
     "instagram": 492661,
-    "tiktok": 2135961,
-    "total": 2628622,
+    "tiktok": 2135516,
+    "total": 2628177,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -188,
+    "tk_diff": -445,
     "socials": {
       "x": "https://x.com/I_KathrinaJKT48",
       "instagram": "https://www.instagram.com/jkt48.kathrina/",
       "tiktok": "https://www.tiktok.com/@kathrinjkt48/",
       "youtube": ""
     },
-    "total_diff": -188
+    "total_diff": -445
   },
   "28": {
     "id": 28,
     "name": "Lulu Salsabila",
     "x": 0,
     "instagram": 103671,
-    "tiktok": 1166069,
-    "total": 1269740,
+    "tiktok": 1165704,
+    "total": 1269375,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -129,
+    "tk_diff": -365,
     "socials": {
       "x": "https://x.com/A_LuluJKT48",
       "instagram": "https://www.instagram.com/jkt48.lulu/",
       "tiktok": "https://www.tiktok.com/@lulu_jkt48",
       "youtube": ""
     },
-    "total_diff": -129
+    "total_diff": -365
   },
   "29": {
     "id": 29,
     "name": "Marsha Lenathea",
     "x": 0,
     "instagram": 11621,
-    "tiktok": 2527648,
-    "total": 2539269,
+    "tiktok": 2527187,
+    "total": 2538808,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -288,
+    "tk_diff": -461,
     "socials": {
       "x": "https://x.com/L_MarshaJKT48",
       "instagram": "https://www.instagram.com/jkt48.marsha/",
       "tiktok": "https://www.tiktok.com/@marsha.jkt48",
       "youtube": ""
     },
-    "total_diff": -288
+    "total_diff": -461
   },
   "30": {
     "id": 30,
     "name": "Michelle Alexandra",
     "x": 0,
     "instagram": 26824,
-    "tiktok": 1903089,
-    "total": 1929913,
+    "tiktok": 1902369,
+    "total": 1929193,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -293,
+    "tk_diff": -720,
     "socials": {
       "x": "https://x.com/Michie_JKT48",
       "instagram": "https://www.instagram.com/jkt48.michie_/",
       "tiktok": "https://www.tiktok.com/@michiejkt48/",
       "youtube": ""
     },
-    "total_diff": -293
+    "total_diff": -720
   },
   "31": {
     "id": 31,
     "name": "Mutiara Azzahra",
     "x": 0,
     "instagram": 11136,
-    "tiktok": 2204053,
-    "total": 2215189,
+    "tiktok": 2203530,
+    "total": 2214666,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -248,
+    "tk_diff": -523,
     "socials": {
       "x": "https://x.com/A_MutheJKT48",
       "instagram": "https://www.instagram.com/jkt48.muthe_/",
       "tiktok": "https://www.tiktok.com/@muthejkt48/",
       "youtube": ""
     },
-    "total_diff": -248
+    "total_diff": -523
   },
   "32": {
     "id": 32,
     "name": "Raisha Syifa",
     "x": 0,
     "instagram": 237468,
-    "tiktok": 999341,
-    "total": 1236809,
+    "tiktok": 999300,
+    "total": 1236768,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -1,
+    "tk_diff": -41,
     "socials": {
       "x": "https://x.com/SW_RaishaJKT48",
       "instagram": "https://www.instagram.com/jkt48.raisha.s/",
       "tiktok": "https://www.tiktok.com/@jkt48.raisha.s/",
       "youtube": ""
     },
-    "total_diff": -1
+    "total_diff": -41
   },
   "33": {
     "id": 33,
@@ -602,396 +602,396 @@ const snsStats = {
     "name": "Abigail Rachel",
     "x": 0,
     "instagram": 37023,
-    "tiktok": 824809,
-    "total": 861832,
+    "tiktok": 824800,
+    "total": 861823,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -5,
+    "tk_diff": -9,
     "socials": {
       "x": "https://x.com/Aralie_JKT48",
       "instagram": "https://www.instagram.com/jkt48.aralie",
       "tiktok": "https://www.tiktok.com/@jkt48.aralie",
       "youtube": ""
     },
-    "total_diff": -5
+    "total_diff": -9
   },
   "35": {
     "id": 35,
     "name": "Adeline Wijaya",
     "x": 0,
     "instagram": 358041,
-    "tiktok": 1177297,
-    "total": 1535338,
+    "tiktok": 1177611,
+    "total": 1535652,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -78,
+    "tk_diff": 314,
     "socials": {
       "x": "https://x.com/Delynn_JKT48",
       "instagram": "https://www.instagram.com/jkt48.delynn",
       "tiktok": "https://www.tiktok.com/@jkt48.delynn",
       "youtube": ""
     },
-    "total_diff": -78
+    "total_diff": 314
   },
   "36": {
     "id": 36,
     "name": "Catherina Vallencia",
     "x": 0,
     "instagram": 14224,
-    "tiktok": 1105322,
-    "total": 1119546,
+    "tiktok": 1105104,
+    "total": 1119328,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -97,
+    "tk_diff": -218,
     "socials": {
       "x": "https://x.com/CErine_JKT48",
       "instagram": "https://www.instagram.com/jkt48.erine",
       "tiktok": "https://www.tiktok.com/@jkt48.erine_",
       "youtube": ""
     },
-    "total_diff": -97
+    "total_diff": -218
   },
   "37": {
     "id": 37,
     "name": "Fritzy Rosmerian",
     "x": 0,
     "instagram": 33129,
-    "tiktok": 1205385,
-    "total": 1238514,
+    "tiktok": 1205052,
+    "total": 1238181,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -149,
+    "tk_diff": -333,
     "socials": {
       "x": "https://x.com/RFritzy_JKT48",
       "instagram": "https://www.instagram.com/jkt48.fritzy.r",
       "tiktok": "https://www.tiktok.com/@jkt48.fritzy",
       "youtube": ""
     },
-    "total_diff": -149
+    "total_diff": -333
   },
   "38": {
     "id": 38,
     "name": "Hillary Abigail",
     "x": 0,
     "instagram": 353020,
-    "tiktok": 1033696,
-    "total": 1386716,
+    "tiktok": 1033490,
+    "total": 1386510,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -130,
+    "tk_diff": -206,
     "socials": {
       "x": "https://x.com/Lily_JKT48",
       "instagram": "https://www.instagram.com/jkt48.lily_",
       "tiktok": "https://www.tiktok.com/@jkt48.lily",
       "youtube": ""
     },
-    "total_diff": -130
+    "total_diff": -206
   },
   "39": {
     "id": 39,
     "name": "Jazzlyn Trisha",
     "x": 0,
     "instagram": 290906,
-    "tiktok": 1164598,
-    "total": 1455504,
+    "tiktok": 1164260,
+    "total": 1455166,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -144,
+    "tk_diff": -338,
     "socials": {
       "x": "https://x.com/JTrisha_JKT48",
       "instagram": "https://www.instagram.com/jkt48.trisha",
       "tiktok": "https://www.tiktok.com/@jkt48.trisha",
       "youtube": ""
     },
-    "total_diff": -144
+    "total_diff": -338
   },
   "40": {
     "id": 40,
     "name": "Michelle Levia",
     "x": 0,
     "instagram": 258343,
-    "tiktok": 788500,
-    "total": 1046843,
+    "tiktok": 788400,
+    "total": 1046743,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": 0,
+    "tk_diff": -100,
     "socials": {
       "x": "https://x.com/Levi_JKT48",
       "instagram": "https://www.instagram.com/jkt48.levi",
       "tiktok": "https://www.tiktok.com/@jkt48.levi",
       "youtube": ""
     },
-    "total_diff": 0
+    "total_diff": -100
   },
   "41": {
     "id": 41,
     "name": "Nayla Suji",
     "x": 0,
     "instagram": 22148,
-    "tiktok": 900908,
-    "total": 923056,
+    "tiktok": 900800,
+    "total": 922948,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": 8,
+    "tk_diff": -108,
     "socials": {
       "x": "https://x.com/SNayla_JKT48",
       "instagram": "https://www.instagram.com/jkt48.nayla.s",
       "tiktok": "https://www.tiktok.com/@jkt48.nayla",
       "youtube": ""
     },
-    "total_diff": 8
+    "total_diff": -108
   },
   "42": {
     "id": 42,
     "name": "Nina Tutachia",
     "x": 0,
     "instagram": 453646,
-    "tiktok": 917700,
-    "total": 1371346,
+    "tiktok": 917500,
+    "total": 1371146,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -100,
+    "tk_diff": -200,
     "socials": {
       "x": "https://x.com/Nachia_JKT48",
       "instagram": "https://www.instagram.com/jkt48.nachia.t",
       "tiktok": "https://www.tiktok.com/@jkt48.nachia",
       "youtube": ""
     },
-    "total_diff": -100
+    "total_diff": -200
   },
   "43": {
     "id": 43,
     "name": "Oline Manuel",
     "x": 0,
     "instagram": 459995,
-    "tiktok": 1550979,
-    "total": 2010974,
+    "tiktok": 1550641,
+    "total": 2010636,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -233,
+    "tk_diff": -338,
     "socials": {
       "x": "https://x.com/M_OlineJKT48",
       "instagram": "https://www.instagram.com/jkt48.oline",
       "tiktok": "https://www.tiktok.com/@jkt48.oline",
       "youtube": ""
     },
-    "total_diff": -233
+    "total_diff": -338
   },
   "44": {
     "id": 44,
     "name": "Ribka Budiman",
     "x": 0,
     "instagram": 67698,
-    "tiktok": 881900,
-    "total": 949598,
+    "tiktok": 881741,
+    "total": 949439,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -60,
+    "tk_diff": -159,
     "socials": {
       "x": "https://x.com/Ribka_JKT48",
       "instagram": "https://www.instagram.com/jkt48.ribka",
       "tiktok": "https://www.tiktok.com/@jkt48.ribka",
       "youtube": ""
     },
-    "total_diff": -60
+    "total_diff": -159
   },
   "45": {
     "id": 45,
     "name": "Shabilqis Naila",
     "x": 0,
     "instagram": 445108,
-    "tiktok": 862439,
-    "total": 1307547,
+    "tiktok": 862300,
+    "total": 1307408,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -161,
+    "tk_diff": -139,
     "socials": {
       "x": "https://x.com/Nala_JKT48",
       "instagram": "https://www.instagram.com/jkt48.nala",
       "tiktok": "https://www.tiktok.com/@jkt48.nala",
       "youtube": ""
     },
-    "total_diff": -161
+    "total_diff": -139
   },
   "46": {
     "id": 46,
     "name": "Victoria Kimberly",
     "x": 0,
     "instagram": 75651,
-    "tiktok": 944048,
-    "total": 1019699,
+    "tiktok": 943800,
+    "total": 1019451,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -152,
+    "tk_diff": -248,
     "socials": {
       "x": "https://x.com/Kimmy_JKT48",
       "instagram": "https://www.instagram.com/jkt48.kimmy",
       "tiktok": "https://www.tiktok.com/@jkt48.kimmy",
       "youtube": ""
     },
-    "total_diff": -152
+    "total_diff": -248
   },
   "47": {
     "id": 47,
     "name": "Astrella Virgiananda",
     "x": 0,
     "instagram": 183944,
-    "tiktok": 299519,
-    "total": 483463,
+    "tiktok": 301808,
+    "total": 485752,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -81,
+    "tk_diff": 2289,
     "socials": {
       "x": "https://x.com/A_VirgiJKT48",
       "instagram": "https://www.instagram.com/virgi.jkt48/",
       "tiktok": "https://www.tiktok.com/@jkt48.virgi",
       "youtube": ""
     },
-    "total_diff": -81
+    "total_diff": 2289
   },
   "48": {
     "id": 48,
     "name": "Aulia Riza",
     "x": 0,
     "instagram": 26678,
-    "tiktok": 399816,
-    "total": 426494,
+    "tiktok": 399843,
+    "total": 426521,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": 16,
+    "tk_diff": 27,
     "socials": {
       "x": "https://x.com/Auwia_JKT48",
       "instagram": "https://www.instagram.com/auwia.jkt48/",
       "tiktok": "https://www.tiktok.com/@jkt48.auwia",
       "youtube": ""
     },
-    "total_diff": 16
+    "total_diff": 27
   },
   "49": {
     "id": 49,
     "name": "Bong Aprilli",
     "x": 0,
     "instagram": 398939,
-    "tiktok": 248504,
-    "total": 647443,
+    "tiktok": 248531,
+    "total": 647470,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -23,
+    "tk_diff": 27,
     "socials": {
       "x": "https://x.com/Rilly_JKT48",
       "instagram": "https://www.instagram.com/rilly.jkt48_/",
       "tiktok": "https://www.tiktok.com/@jkt48.rilly",
       "youtube": ""
     },
-    "total_diff": -23
+    "total_diff": 27
   },
   "50": {
     "id": 50,
     "name": "Hagia Sopia",
     "x": 0,
     "instagram": 291651,
-    "tiktok": 172228,
-    "total": 463879,
+    "tiktok": 172213,
+    "total": 463864,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -72,
+    "tk_diff": -15,
     "socials": {
       "x": "https://x.com/Giaa_JKT48",
       "instagram": "https://www.instagram.com/giaa.jkt48/",
       "tiktok": "https://www.tiktok.com/@giaa.jkt48",
       "youtube": ""
     },
-    "total_diff": -72
+    "total_diff": -15
   },
   "51": {
     "id": 51,
     "name": "Humaira Ramadhani",
     "x": 0,
     "instagram": 149686,
-    "tiktok": 427210,
-    "total": 576896,
+    "tiktok": 427721,
+    "total": 577407,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": 194,
+    "tk_diff": 511,
     "socials": {
       "x": "https://x.com/Maira_JKT48",
       "instagram": "https://www.instagram.com/maira.jkt48/",
       "tiktok": "https://www.tiktok.com/@jkt48.maira",
       "youtube": ""
     },
-    "total_diff": 194
+    "total_diff": 511
   },
   "52": {
     "id": 52,
     "name": "Jacqueline Immanuela",
     "x": 0,
     "instagram": 197207,
-    "tiktok": 347600,
-    "total": 544807,
+    "tiktok": 347544,
+    "total": 544751,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": 0,
+    "tk_diff": -56,
     "socials": {
       "x": "https://x.com/Ekin_JKT48",
       "instagram": "https://www.instagram.com/ekin.jkt48/",
       "tiktok": "https://www.tiktok.com/@jkt48.ekin",
       "youtube": ""
     },
-    "total_diff": 0
+    "total_diff": -56
   },
   "53": {
     "id": 53,
     "name": "Jemima Evodie",
     "x": 0,
     "instagram": 456033,
-    "tiktok": 356712,
-    "total": 812745,
+    "tiktok": 356700,
+    "total": 812733,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -19,
+    "tk_diff": -12,
     "socials": {
       "x": "https://x.com/JE_JemimaJKT48",
       "instagram": "https://www.instagram.com/jemima.jkt48/",
       "tiktok": "https://www.tiktok.com/@jkt48.jemima",
       "youtube": ""
     },
-    "total_diff": -19
+    "total_diff": -12
   },
   "54": {
     "id": 54,
     "name": "Mikaela Kusjanto",
     "x": 0,
     "instagram": 434266,
-    "tiktok": 373400,
-    "total": 807666,
+    "tiktok": 373300,
+    "total": 807566,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -49,
+    "tk_diff": -100,
     "socials": {
       "x": "https://x.com/M_MikaelaJKT48",
       "instagram": "https://www.instagram.com/mikaela.jkt48/",
       "tiktok": "https://www.tiktok.com/@jkt48.mikaela",
       "youtube": ""
     },
-    "total_diff": -49
+    "total_diff": -100
   },
   "55": {
     "id": 55,
     "name": "Nur Intan",
     "x": 0,
     "instagram": 204512,
-    "tiktok": 397214,
-    "total": 601726,
+    "tiktok": 397300,
+    "total": 601812,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": 257,
+    "tk_diff": 86,
     "socials": {
       "x": "https://x.com/N_IntanJKT48",
       "instagram": "https://www.instagram.com/intan.jkt48/",
       "tiktok": "https://www.tiktok.com/@jkt48.intan",
       "youtube": ""
     },
-    "total_diff": 257
+    "total_diff": 86
   },
   "56": {
     "id": 56,
@@ -4420,18 +4420,18 @@ const snsStats = {
     "name": "Heidi Suyangga",
     "x": 0,
     "instagram": 0,
-    "tiktok": 76951,
-    "total": 76951,
+    "tiktok": 77025,
+    "total": 77025,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": 30,
+    "tk_diff": 74,
     "socials": {
       "x": "https://x.com/Heidi_JKT48",
       "instagram": "https://www.instagram.com/heidi.jkt48/",
       "tiktok": "https://www.tiktok.com/@jkt48.heidi__",
       "youtube": ""
     },
-    "total_diff": 30
+    "total_diff": 74
   },
   "247": {
     "id": 247,
@@ -4546,36 +4546,36 @@ const snsStats = {
     "name": "Pia Meraleo",
     "x": 0,
     "instagram": 123676,
-    "tiktok": 508600,
-    "total": 632276,
+    "tiktok": 508405,
+    "total": 632081,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -100,
+    "tk_diff": -195,
     "socials": {
       "x": "https://x.com/pia_jkt48v",
       "instagram": "https://www.instagram.com/jkt48v.pia/",
       "tiktok": "https://www.tiktok.com/@jkt48v.pia",
       "youtube": "https://www.youtube.com/@PiaMeraleo-JKT48V"
     },
-    "total_diff": -100
+    "total_diff": -195
   },
   "8001": {
     "id": 8001,
     "name": "Tana Nonaka",
     "x": 0,
     "instagram": 393369,
-    "tiktok": 515967,
-    "total": 909336,
+    "tiktok": 515800,
+    "total": 909169,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -133,
+    "tk_diff": -167,
     "socials": {
       "x": "https://x.com/tana_jkt48v",
       "instagram": "https://www.instagram.com/jkt48v.tana/",
       "tiktok": "https://tiktok.com/@jkt48v.tana",
       "youtube": "https://www.youtube.com/@TanaNona-JKT48V"
     },
-    "total_diff": -133
+    "total_diff": -167
   },
   "8002": {
     "id": 8002,
@@ -4600,54 +4600,54 @@ const snsStats = {
     "name": "Isha Kirana",
     "x": 0,
     "instagram": 28665,
-    "tiktok": 48712,
-    "total": 77377,
+    "tiktok": 48706,
+    "total": 77371,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -10,
+    "tk_diff": -6,
     "socials": {
       "x": "https://x.com/isha_jkt48v",
       "instagram": "https://www.instagram.com/jkt48v.isha/",
       "tiktok": "https://www.tiktok.com/@jkt48v.isha",
       "youtube": "https://www.youtube.com/@IshaKirana-JKT48V"
     },
-    "total_diff": -10
+    "total_diff": -6
   },
   "8004": {
     "id": 8004,
     "name": "Maura Nilambari",
     "x": 0,
     "instagram": 288969,
-    "tiktok": 48997,
-    "total": 337966,
+    "tiktok": 49004,
+    "total": 337973,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": -6,
+    "tk_diff": 7,
     "socials": {
       "x": "https://x.com/maura_jkt48v",
       "instagram": "https://www.instagram.com/jkt48v.maura/",
       "tiktok": "https://www.tiktok.com/@jkt48v.maura",
       "youtube": "https://www.youtube.com/@MauraNilambari-JKT48V"
     },
-    "total_diff": -6
+    "total_diff": 7
   },
   "8005": {
     "id": 8005,
     "name": "Sami Maono",
     "x": 0,
     "instagram": 79508,
-    "tiktok": 50100,
-    "total": 129608,
+    "tiktok": 50044,
+    "total": 129552,
     "x_diff": 0,
     "ig_diff": 0,
-    "tk_diff": 0,
+    "tk_diff": -56,
     "socials": {
       "x": "https://x.com/sami_jkt48v",
       "instagram": "https://www.instagram.com/jkt48v.sami/",
       "tiktok": "https://www.tiktok.com/@jkt48v.sami",
       "youtube": "https://www.youtube.com/@SamiMaono-JKT48V"
     },
-    "total_diff": 0
+    "total_diff": -56
   },
   "9000": {
     "id": 9000,
